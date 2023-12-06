@@ -3,7 +3,7 @@ import os
 
 import aws_cdk as cdk
 
-from sf api endpoints.sf api endpoints_stack import SfApiEndpointsStack
+from sf_api_endpoints.sf_api_endpoints_stack  import SfApiEndpointsStack
 
 
 app = cdk.App()
